@@ -1,0 +1,18 @@
+[
+  {
+    "archivo": "V1.mp4",
+    "titulo": "V1 · Historia dramatizada",
+    "angulo": "Dolor de quien compra contado como historia, con el rótulo \"historia dramatizada\".",
+    "guion": "Primera frase = gancho en pantalla.\nDesarrollo con el producto real a la vista antes del segundo 4.\nCierre con el beneficio y el llamado a la acción.",
+    "copy": "Texto principal del anuncio, el título y la descripción.",
+    "voz": "Voz femenina natural, español latino."
+  },
+  {
+    "archivo": "V2.mp4",
+    "titulo": "V2 · Producto en acción",
+    "angulo": "Mostrar el producto desde el primer segundo.",
+    "guion": "Pregunta en los primeros 2 segundos; la respuesta llega en el segundo 5.",
+    "copy": "Texto principal del anuncio.",
+    "voz": "Voz masculina natural."
+  }
+]

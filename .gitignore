@@ -1,0 +1,19 @@
+# Nunca subir claves ni datos privados
+.env
+*.env
+*secret*
+*token*
+*.key
+
+# Medios pesados y salidas
+*.mp4
+*.mov
+*.webm
+salida/
+dist/
+node_modules/
+.wrangler/
+
+# Sistema
+Thumbs.db
+desktop.ini
